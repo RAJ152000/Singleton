@@ -1,0 +1,6 @@
+Singleton 
+
+
+
+
+singleton project
